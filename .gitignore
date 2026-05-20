@@ -1,5 +1,6 @@
 # Python virtual environments
-pybs/
+pybs/**
+!pybs/test.ipynb
 venv/
 .venv/
 env/
