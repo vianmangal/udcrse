@@ -1,0 +1,8 @@
+# Python virtual environments
+pybs/
+venv/
+.venv/
+env/
+ENV/
+venv.bak/
+env.bak/
